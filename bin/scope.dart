@@ -7,5 +7,9 @@ void main(){
   }
 
   sayHello();
-  print(hello); // eror tidak bisa diakses
+  // print(hello); error
+}
+
+void contoh(){
+  //sayHello(); error
 }
