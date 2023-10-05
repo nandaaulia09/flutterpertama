@@ -1,3 +1,3 @@
-void main (List<string> args) {
+void main (List<String>args) {
   print('Arguments $args');
-}
+} 
