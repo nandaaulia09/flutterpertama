@@ -1,4 +1,4 @@
-void main(List<String> args){
-  priot('Arguments : $args');
+main (){
+  print ('Bunga Mawar');
 }
 
