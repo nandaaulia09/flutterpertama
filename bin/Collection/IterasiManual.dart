@@ -1,5 +1,5 @@
 void main(){
-  var names = ['Nanda', 'Aul'];
+  var names = ['Nanda', 'Aulia'];
   var iterator = names.iterator;
 
   while (iterator.moveNext()){

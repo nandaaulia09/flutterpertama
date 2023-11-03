@@ -9,7 +9,7 @@ final class StringEntry extends LinkedListEntry<StringEntry>{
 
 void main(){
   var LingkedList = LinkedList<StringEntry>();
-  LingkedList.addAll([StringEntry('Nanda'), StringEntry('Au')]);
+  LingkedList.addAll([StringEntry('Nanda'), StringEntry('Aulia')]);
 
     for (var value in LingkedList) {
       print(value.value);
