@@ -4,7 +4,7 @@ void main(){
   final queue = Queue<String>();
 
   queue.addLast("Nanda");
-  queue.addLast("Aulia");
+  queue.addLast("Aul");
 
   print(queue.removeLast());
   print(queue.removeLast());
